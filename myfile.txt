@@ -1,3 +1,4 @@
 Fantastic work with Git software
+Theory work with Git software
 I am beginning to understand Git!
 This text was added one more line
